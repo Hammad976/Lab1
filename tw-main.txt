@@ -1,3 +1,4 @@
 purpose: three way merge
 location: main
 new line from main
+extra new line from main
